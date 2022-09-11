@@ -24,4 +24,6 @@
 ![image](https://user-images.githubusercontent.com/89846259/189521618-be07c0ee-07b9-46c2-ab36-c1ab56fb2887.png)
 ![image](https://user-images.githubusercontent.com/89846259/189521622-ef65e9c4-9b39-4904-a670-10fd130cd8be.png)
 ![image](https://user-images.githubusercontent.com/89846259/189521626-10da7ad7-127d-4d9c-bb54-129ee4ca5f01.png)
-
+# Makefile
+![image](https://user-images.githubusercontent.com/89846259/189525763-5de40b3c-420b-4044-b332-81ba7e823358.png)
+![image](https://user-images.githubusercontent.com/89846259/189525737-fb8bacf6-7919-40c2-b55c-b9a5dcf8a7cf.png)
